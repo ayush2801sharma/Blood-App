@@ -1,5 +1,5 @@
 # Blood-App
-Mini Project: An android blood application which serves as an interaction between blood donors and receivers using Android studio.This App is written in java ,XML
+Mini Project: An android blood application which serves as an interaction between blood donors and receivers using Android studio. This App is written in java ,XML
 
 ![Splash Screen](https://user-images.githubusercontent.com/68229721/137631197-a02e7ceb-1b8b-4f9d-b9a0-443cba17eefa.png)
 ![search screen](https://user-images.githubusercontent.com/68229721/137631205-bd09145c-0734-4901-9e0c-296ba0a7c4c2.png)
